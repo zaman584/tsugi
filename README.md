@@ -1,6 +1,8 @@
 TSUGI - A Framework for Building PHP-Based Learning Tools
 =========================================================
 
+This branch (0.1.0) is the code before extracting and refactoring code into the tsugi-php library repository
+
 Welcome to the www.tsugi.org project. 
 Its goal is to build a scalable multi-tenant "tool" hosting environment based on the 
 emerging IMS standards.  
